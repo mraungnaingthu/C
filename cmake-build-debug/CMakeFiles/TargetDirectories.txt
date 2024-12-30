@@ -1,0 +1,3 @@
+C:/Users/Aung Naing Thu/CLionProjects/Projects/cmake-build-debug/CMakeFiles/C_C__Projects.dir
+C:/Users/Aung Naing Thu/CLionProjects/Projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aung Naing Thu/CLionProjects/Projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
